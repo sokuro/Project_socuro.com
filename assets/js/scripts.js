@@ -1,2 +1,2 @@
-alert("hi Karol");
+alert("under construction");
 console.info("hello");

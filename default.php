@@ -1,4 +1,6 @@
 <?
+phpinfo();
+exit();
 header('Content-Type: text/html; charset=utf-8');
 $host = $_SERVER['HTTP_HOST'];
 setlocale(LC_TIME, "uk_UK.utf8");

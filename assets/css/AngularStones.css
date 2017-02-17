@@ -1,0 +1,8 @@
+header, article, aside {
+    margin: 10px 10px 10px 10px;
+}
+
+footer {
+    margin: 10px 10px 10px 10px;
+    font-size: small;
+}

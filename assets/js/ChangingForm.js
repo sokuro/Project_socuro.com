@@ -2,7 +2,8 @@
  * Created by Kajo on 4/3/2016.
  */
 // var getImage = function (images) {
-var images = 'imageOne';
+var images = document.images;
+/*var images = 'imageOne';*/
     switch (images) {
         case 'imageOne':
             var imageOne = new Image(); //preload
